@@ -1,5 +1,6 @@
 {
     "name": "jumpy platformer (in space or smth)",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
